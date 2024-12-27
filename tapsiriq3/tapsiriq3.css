@@ -1,0 +1,28 @@
+section{
+   display: block;
+}
+article{
+    margin: auto;
+    border: 1px solid;
+    position-area: 10px;
+    width:fit-content;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 600px;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+margin: 50px;
+}
+ul{list-style: none;}
+
+#can{    color: #b12704;
+    margin-bottom: 20px;}
+    #can2{    color: #b12704;
+        margin-bottom: 20px;}
+
+
+
+
+
+

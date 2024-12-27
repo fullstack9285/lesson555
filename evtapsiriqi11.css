@@ -1,0 +1,31 @@
+img{
+    width: 100px;
+    display: inline;
+    width: 40px;
+    height: 40px;
+    background-color: #833ae0;
+    display:inline-block
+
+;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin: 0;
+}
+ul{display: inline-block;
+    background-color: blueviolet;
+
+}
+section,ul,li{ display: block;
+    display: inline-block;
+
+}
+
+article{
+    display: inline-block;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+}
+

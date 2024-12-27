@@ -1,0 +1,16 @@
+table,tr,td{
+    border: 1px solid #80ced6;
+    border-collapse: collapse;
+    padding: 10px;
+background-color: #f0fff8;
+}
+
+p{
+    border: 1px solid #80ced6 ;
+    padding: 10px;
+}
+
+ul{
+    border: 1px solid #80ced6;
+    padding: 10px;
+}

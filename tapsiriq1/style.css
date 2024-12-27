@@ -1,0 +1,33 @@
+h1{
+    background-color: white;
+}
+header{background-color: yellow;
+height: 30px;
+width: 100%;}
+
+
+.p1 a{color: rgb(237, 237, 159);
+
+}
+.p2 a{color: rgb(237, 237, 159);}
+.p3 a{color: rgb(237, 237, 159);}
+.p4 a{color:rgb(237, 237, 159)}
+
+
+.p a{color: rgb(237, 237, 159);}
+#Y a{color: rgb(237, 237, 159);}
+#Y a{color: rgb(237, 237, 159);}
+a {color: rgb(237, 237, 159);}
+
+footer{background-color: rgb(56, 37, 111);
+height: 30px;
+width: 100%;}
+body{
+    background-color: rgb(82, 129, 182);
+}
+.box{
+    max-width: 1200px;
+    margin-inline: auto
+    ;
+}
+h1{color: rgb(255, 255, 255);background-color: rgb(233, 189, 14);}
